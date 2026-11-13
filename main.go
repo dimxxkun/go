@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dimxxkun/go-quickstart/analyzer"
+	"github.com/dimxxkun/go/analyzer"
 )
 
 func main() {
@@ -13,7 +13,7 @@ Easy to learn and great for building scalable services.
 Concurrency is easy with goroutines and channels.`
 
 	fmt.Println("=========================================")
-	fmt.Println("   Go Quickstart - Text Analyzer CLI     ")
+	fmt.Println("       Go - Text Analyzer CLI            ")
 	fmt.Println("=========================================")
 	fmt.Println("\nAnalyzing input text:")
 	fmt.Println(strings.Repeat("-", 45))

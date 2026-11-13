@@ -1,11 +1,11 @@
-# Go Quickstart
+# Go
 
 A clean, idiomatic Go starter repository demonstrating standard project layout, package structure, unit tests, and CLI execution.
 
 ## Project Structure
 
 ```
-go-quickstart/
+go/
 ├── go.mod
 ├── README.md
 ├── .gitignore
@@ -36,8 +36,8 @@ go test -v ./...
 ### Build binary:
 
 ```bash
-go build -o go-quickstart.exe main.go
-./go-quickstart.exe
+go build -o go-app.exe main.go
+./go-app.exe
 ```
 
 ## License

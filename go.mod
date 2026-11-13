@@ -1,3 +1,3 @@
-module github.com/dimxxkun/go-quickstart
+module github.com/dimxxkun/go
 
 go 1.22

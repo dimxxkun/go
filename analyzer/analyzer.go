@@ -48,3 +48,4 @@ func Analyze(input string) Stats {
 		LongestWord:     longest,
 	}
 }
+
